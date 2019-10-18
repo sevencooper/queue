@@ -23,7 +23,7 @@ const Login = props => {
           Welcome back! Log in to access the Queue.
         </p>
         <Button className="btn-illinois" color={null} block href={shibUrl}>
-          Log in with Illinois
+          Log in with UML
         </Button>
         {showDevModeLogin && (
           <Fragment>

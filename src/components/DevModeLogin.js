@@ -53,7 +53,7 @@ class DevModeLogin extends React.Component {
               value={this.state.netid}
               onChange={this.handleNetidChange}
             />
-            <InputGroupAddon addonType="append">@illinois.edu</InputGroupAddon>
+            <InputGroupAddon addonType="append">@uml.edu</InputGroupAddon>
           </InputGroup>
           <Button
             block
